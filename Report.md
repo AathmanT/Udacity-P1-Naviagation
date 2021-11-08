@@ -68,8 +68,8 @@ QNetwork(
 
 **Plot of Rewards**
 
-The following plots shows the rewards per episode
-<img src="assets/rewards_plot.png" alt="" title="Rewards plot" />
+The following plots shows the rewards per episode  
+<img src="assets/rewards_plot.png" alt="" title="Rewards plot" />  
 The agent is able to solve the environment in 219 episodes!
 
 ```
